@@ -13,4 +13,4 @@ Two person are brothers, if,<br>
 - [x] They both are male.<br>
 - [x] They have the same parent.<br>
     and Prolog Code for this will be-<br>
-- [ ] brother(X,Y) :- parent(Z,X), parent(Z,Y),male(X), male(Y).
+* brother(X,Y) :- parent(Z,X), parent(Z,Y),male(X), male(Y).
