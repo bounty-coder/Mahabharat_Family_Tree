@@ -1,4 +1,4 @@
-# Mahabharat_Family_Tree
+# Mahabharat Family Tree
 This Prolog program is the family tree of mahabharat
 
 To run a query, visit https://swish.swi-prolog.org/p/Mahabharat%20Family%20Tree.pl <br><br>
@@ -14,3 +14,5 @@ Two person are brothers, if,<br>
 - [x] They have the same parent.<br>
     and Prolog Code for this will be-<br>
 * brother(X,Y) :- parent(Z,X), parent(Z,Y),male(X), male(Y).
+
+For more Prolog reference, visit https://www.swi-prolog.org/pldoc/doc_for?object=root
